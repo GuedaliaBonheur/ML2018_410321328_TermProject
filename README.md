@@ -19,6 +19,7 @@ Our program has an overall accuracy of nearly 80%. And 8 testcases were successf
 <h4 align="center">Performance of our Recognition Algorithm</h4>
 
 Our program has an overall accuracy of nearly 80%. And 8 testcases were successful out of 10.
+
 <img width="1440" alt="screen shot 2018-07-06 at 7 18 13 pm" src="https://user-images.githubusercontent.com/38835734/42376373-8ad1997a-8151-11e8-98c5-e415186373ef.png">
 
 <img width="1440" alt="screen shot 2018-07-06 at 5 38 24 pm" src="https://user-images.githubusercontent.com/38835734/42376393-98dd6184-8151-11e8-92d7-9c6d7acb5e7c.png">
