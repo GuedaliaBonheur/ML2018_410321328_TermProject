@@ -2,9 +2,9 @@
 <h3 align="center">Face Recognizer System</h3>
 <h4 align="center">Description</h4>
 
+<h4 align="center">Principle</h4>
 
-
-<h4 align="center">How to Use our Project files</h4>
+<h4 align="center">How to Run the Project files</h4>
 
 <h4>Step1</h4>
 
@@ -28,4 +28,4 @@
 <h4></h4>
 
 
-<h4 align="center">Performance of our Algorithm</h4>
+<h4 align="center">Performance of our Recognition Algorithm</h4>
