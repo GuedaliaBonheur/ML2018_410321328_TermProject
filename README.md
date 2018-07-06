@@ -11,7 +11,7 @@ The goal of this homework was to implement a face recognition system, that will 
 First perform the data training by running the "data_training.m" file.
 
 <h4>Step2</h4>
-Our program has an overall accuracy of nearly 80%. And 8 testcases were successful out of 10. below are some results of our Face Recognition System
+Our program has an overall accuracy of nearly 80%. And 8 testcases were successful out of 10. below are some results of our Face Recognition System. 
 
 <h4></h4>
 
