@@ -8,8 +8,7 @@ The goal of this homework was to implement a face recognition system, that will 
 <h4 align="center">How to Run the Project files</h4>
 
 <h4>Step1</h4>
-
-
+First perform the data training by running the "data_training.m" file.
 
 <h4>Step2</h4>
 
