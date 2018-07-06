@@ -4,6 +4,7 @@
 The goal of this homework was to implement a face recognition system, that will process a database of 50 different people with 15 images each. Our implementation was done with Matlab. Instead of jpg files, our program works with pgm files since they are lighter and easier to cinvert into arrays of unsigned 8 bit numbers. In the next section we will have a more in-depth explaination of the working principle of our program.
 
 <h4 align="center">Principle</h4>
+In order to perform the face recognition, our algorithm first converts the pgm images into matrices containing decimal or integers values.
 
 <h4 align="center">How to Run the Project files</h4>
 
