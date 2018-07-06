@@ -1,7 +1,7 @@
 <h2 align="center">Introductory Machine Learning Term Project</h2>
 <h3 align="center">Face Recognizer System</h3>
 <h4 align="center">Description</h4>
-The goal of this homework was to implement a face recognition system, that will process a database of 50 different people with 15 images each. Our implementation was done with Matlab.
+The goal of this homework was to implement a face recognition system, that will process a database of 50 different people with 15 images each. Our implementation was done with Matlab. Instead of jpg files, our program works with pgm files since they are lighter and easier to cinvert into arrays of unsigned 8 bit numbers. In the next section we will have a more in-depth explaination of the working principle of our program.
 
 <h4 align="center">Principle</h4>
 
