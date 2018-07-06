@@ -16,16 +16,4 @@ First perform the data training by running the "data_training.m" file.
 <h4></h4>
 
 
-<h4>Step3</h4>
-
-
-<h4></h4>
-
-
-<h4>Step4</h4>
-
-
-<h4></h4>
-
-
 <h4 align="center">Performance of our Recognition Algorithm</h4>
