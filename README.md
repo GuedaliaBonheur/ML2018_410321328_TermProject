@@ -1,5 +1,5 @@
-<h2 align="center">Introductory Machine Learning Programming Assignment 2</h2>
-<h3 align="center">Handwritten Character Recognition</h3>
+<h2 align="center">Introductory Machine Learning Term Project</h2>
+<h3 align="center">Face Recognizer System</h3>
 <h4 align="center">Description</h4>
 
 
