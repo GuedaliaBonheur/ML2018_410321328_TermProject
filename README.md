@@ -44,4 +44,5 @@ Our program has an overall accuracy of nearly 80%. And 8 testcases were successf
 
 
 <h4 align="center">Implementation Challenges</h4>
+<h4></h4>
 One of the main challenges we faced during the implementation and testing of this project was converting all the input images in pgm format. In fact, we had in total 750 images to convert into .pgm (15 images of 50 people). Converting this large amount of images was an exhausting task. Also, our algorithm randomly selects a person (one image) for the recognition. Since the selection is based on an index, we had some issues identifying the index of a specially designated test image (for the demo). Overall, our project was completed successfuly and its performance is satisfactory, it was a very instructive project.
